@@ -1,0 +1,50 @@
+.projects {
+  padding: 20px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.projects h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+.project-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+}
+
+.project-card {
+  width: calc(27% - 5px); 
+  aspect-ratio: 1 / 1; 
+  background: linear-gradient(135deg, #050505, #0630ed);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  padding: 10px; 
+  color: #f8f6f6; 
+}
+
+.project-card h3 {
+  margin-top: 20px;
+}
+
+.project-card ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.projectsdiv1 {
+  margin-left: -1100px;
+  margin-top: -10px;
+}
+
+.proh1 {
+  margin-left: -190px;
+  color: blue;
+}

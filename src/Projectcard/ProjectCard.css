@@ -1,0 +1,16 @@
+
+.project-card {
+    background: #444;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05);
+  }
+  /* .titlepro{
+    position: fixed;
+    margin-top: 100px;
+  }
+   */
