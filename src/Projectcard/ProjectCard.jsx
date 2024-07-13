@@ -1,11 +1,16 @@
-// ProjectCard.js
 import React from 'react';
 import './ProjectCard.css';
+import { FaGithub } from 'react-icons/fa'; // Import the GitHub icon from react-icons
 
-const ProjectCard = ({ title, techStack }) => {
+const ProjectCard = ({ title, techStack, githubLink }) => {
   return (
     <div className="project-card">
-      <h3 className='titlepro'>{title}</h3>
+      <a href={githubLink} className="github-icon" target="_blank" rel="noopener noreferrer">
+        <FaGithub />
+      </a>
+      <div className='titlepro'>
+        <h3>{title}</h3>
+      </div>
       <p>{techStack.join(' | ')}</p>
     </div>
   );

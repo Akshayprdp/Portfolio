@@ -1,16 +1,27 @@
-
 .project-card {
-    background: #444;
-    padding: 20px;
-    border-radius: 10px;
-    transition: transform 0.3s;
-  }
-  
-  .project-card:hover {
-    transform: scale(1.05);
-  }
-  /* .titlepro{
-    position: fixed;
-    margin-top: 100px;
-  }
-   */
+  background: linear-gradient(135deg, #050505, #0630ed);
+  padding: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+}
+
+.titlepro {
+  margin: 150px 0 0 0;  
+}
+
+.github-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 32px;
+  color: white;
+  text-decoration: none;
+}

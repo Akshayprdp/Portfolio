@@ -1,0 +1,45 @@
+.link-container{
+    height: 240px;
+}
+.Aboutlink{
+    color:#0000FF;
+    font-size: 1.5em;
+}
+.about-work{
+    margin-top: 80px;
+    margin-left: 70px;
+    
+}
+.links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+   
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    transition: background-color 0.3s;
+    width: 400px;
+    height: 40px;
+  }
+  
+  .link:hover {
+    background-color: #333;
+  }
+  
+  .link-icon {
+    margin-right: 10px;
+  }
+  
+  
+  

@@ -1,6 +1,11 @@
-/* .Aboutdiv1{
-
-   } */
+.About-div{
+height: 500px;
+   }
+   .Aboutdiv1{
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 300px;
+   }
    .Aboutdiv4 {
     font-size: 1.2em;
     line-height: 1.5;
