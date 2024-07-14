@@ -48,8 +48,6 @@ const About = () => {
         <div className="rectangle24"></div>
         <div className="rectangle25"></div>
         <div className="rectangle26"></div>
-       
-       
         <div className="circle1"></div>
         <div className="circle2"></div>
       </div>

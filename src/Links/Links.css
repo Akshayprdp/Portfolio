@@ -40,6 +40,8 @@
   .link-icon {
     margin-right: 10px;
   }
-  
-  
-  
+
+  @media (max-width: 768px){
+    .link{margin-right: -20px;width:10px;}
+    
+  }
