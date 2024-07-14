@@ -1,8 +1,9 @@
 .About-div{
   height: 500px;
+  
 }
 .Aboutdiv1{
-  height: 200px;
+  height: 300px;
   margin-left: 270px;
   margin-top: 250px;
 }
@@ -16,7 +17,7 @@
 }
 .Aboutdiv2 {
   margin-left: 50px;
-  margin-top: 410px;
+  margin-top: 310px;
 }
 .shapes {
   display: flex;

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaGithub, FaInstagram, FaLinkedin, FaPen } from 'react-icons/fa';
+import { FaGithub, FaInstagram, FaLinkedin,} from 'react-icons/fa';
 import './Links.css'
 
 function Links() {
@@ -10,7 +10,7 @@ function Links() {
   ];
 
   return (
-    <div className='link-container'>
+    <div className='link-container' id='Links'>
       <div className='about-work'>
       <h1 className='Aboutlink'>On the web -</h1>
       <h1 className='More-work'>More of my work</h1>

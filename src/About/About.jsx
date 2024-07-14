@@ -3,13 +3,13 @@ import "./About.css";
 
 const About = () => {
   return (
-    <div className="About-div">
+    <div className="About-div" >
       <div className="Aboutdiv1">
         <h1>Akshay P</h1>
         <h2>Full stack Developer</h2>
       </div>
 
-      <div className="Aboutdiv2">
+      <div className="Aboutdiv2" id="Aboutdiv2">
         <h1 className="Aboutdiv3">About -</h1>
         <h1>Hi, I'm Akshay</h1>
         <p className="Aboutdiv4">

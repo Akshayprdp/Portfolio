@@ -1,17 +1,27 @@
 .navbar {
-    display: flex;
-    justify-content: center;
-    background: #060606;
-    padding: 10px;
-  }
-  
-  .navbar ul {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-  }
-  
-  .navbar ul li a {
-    color: #fff;
-    text-decoration: none;
-  }
+  display: flex;
+  justify-content: center;
+  background-color: #030303;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.navbar ul li a {
+  color: #fff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+  color: #0b0b0b; 
+  background-color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
