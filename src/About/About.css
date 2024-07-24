@@ -1,5 +1,20 @@
 .About-div {
   height: 500px;
+  position: absolute;
+  margin-top: -500px;
+}
+
+.Aboutdiv2 {
+  margin-left: 80px;
+  margin-top: 80px;
+  position: absolute;
+}
+
+.shapes {
+  display: flex;
+  gap: 20px;
+  margin-top: 520px;
+  position: absolute;
 }
 
 .Aboutdiv1 {
@@ -11,22 +26,12 @@
 .Aboutdiv4 {
   font-size: 1.2em;
   line-height: 1.5;
+  width: 1400px;
 }
 
 .Aboutdiv3 {
   color: rgb(18, 18, 241);
   font-size: 1.5em;
-}
-
-.Aboutdiv2 {
-  margin-left: 50px;
-  margin-top: 310px;
-}
-
-.shapes {
-  display: flex;
-  gap: 20px;
-  margin-top: 20px;
 }
 
 .rectangle1, .rectangle2, .rectangle3, .rectangle4, .rectangle5, 

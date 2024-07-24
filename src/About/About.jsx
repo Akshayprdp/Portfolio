@@ -14,7 +14,7 @@ const About = () => {
         <h1>Hi, I'm Akshay</h1>
         <p className="Aboutdiv4">
           I'm Akshay, a MERN stack Developer currently interning at Softroniics
-          Perindalmanna. In this role, I am gaining extensive hands-on
+          perinthalmanna. In this role, I am gaining extensive hands-on
           experience in building full-stack web applications using MongoDB,
           Express.js, React.js, and Node.js. My work involves crafting
           responsive user interfaces, developing robust server-side components,
