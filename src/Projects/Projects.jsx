@@ -18,6 +18,11 @@ const projects = [
     techStack: [ 'React.js', 'JavaScript',' HTML', ' MongoDB',' Express.js',' Node.js'], 
     githubLink: 'https://github.com/Akshayprdp/Cellworld-E-com' 
   },
+  { 
+    title: 'Freelance Project', 
+    techStack: [ 'React.js', 'JavaScript',' HTML', ' MongoDB',' Express.js',' Node.js','tailwind'], 
+    
+  },
 ];
 
 const Projects = () => {
