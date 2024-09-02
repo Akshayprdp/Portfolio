@@ -18,8 +18,8 @@
 }
 
 .navbar ul li a:hover {
-  color: #0b0b0b; 
-  background-color: #a8c6e3;
+  color: blue; /* Change the font color to blue on hover */
+  background-color: transparent; /* Ensure the background remains transparent */
 }
 
 html {
