@@ -83,3 +83,40 @@
 .rectangle26 { width: 80px; height: 20px; margin-top: -980px; margin-left: -10px; border-radius: 2%; background: linear-gradient(135deg, #E1F5FE, #B3E5FC); --i: 26; }
 .circle1 { width: 20px; height: 20px; background-color: #36def4; border-radius: 50%; margin-top: -700px; margin-left: -10px; --i: 27; }
 .circle2 { width: 20px; height: 20px; background-color: #f4f5f6; border-radius: 50%; margin-top: -980px; margin-left: -40px; --i: 28; }
+
+@media only screen and (max-width: 600px) {
+  .About-div {
+    margin-top: 10px;
+  }
+  
+  .Aboutdiv1 {
+    margin-left: 20px;
+    margin-top: 50px;
+  }
+
+  .Aboutdiv2 {
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+
+  .shapes {
+    margin-top: -500px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .rectangle1, .rectangle2, .rectangle3, .rectangle4, .rectangle5, 
+  .rectangle6, .rectangle7, .rectangle8, .rectangle9, .rectangle10
+  {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  /* .rectangle11, .rectangle12, .rectangle13 .rectangle14, .rectangle15, 
+  .rectangle16, .rectangle17, .rectangle18, .rectangle19, .rectangle20, 
+  .rectangle21, .rectangle22, .rectangle23, .rectangle24, .rectangle25, 
+  .rectangle26, 
+  .circle1, .circle2{
+    margin-top: 0px;
+    margin-left: 0px;
+  } */
+}
