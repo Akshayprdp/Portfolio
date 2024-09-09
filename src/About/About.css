@@ -98,7 +98,7 @@
     margin-left: 20px;
     margin-top: 20px;
   }
-
+  
   .shapes {
     margin-top: -500px;
     flex-wrap: wrap;
@@ -106,7 +106,7 @@
   }
 
   .rectangle1, .rectangle2, .rectangle3, .rectangle4, .rectangle5, 
-  .rectangle6, .rectangle7, .rectangle8, .rectangle9, .rectangle10
+  .rectangle6, .rectangle7
   {
     margin-top: 0px;
     margin-left: 0px;
@@ -119,4 +119,60 @@
     margin-top: 0px;
     margin-left: 0px;
   } */
+   .rectangle11{
+    margin-top: 110px;
+   }
+   .rectangle12{
+    margin-top: 110px;
+    margin-left: 1px;
+   }
+   .rectangle13{
+    margin-top: 110px;
+    margin-left: -2px;
+   }
+   .rectangle14{
+    margin-top: 110px;
+    margin-left: -2px;
+   }
+   .rectangle15{
+    margin-top: 0px;
+   }
+   .rectangle16{
+    margin-top: 0px;
+    margin-left: 0px;
+   }
+   .rectangle17{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle18{
+    margin-top: 0px;
+   }
+   .rectangle19{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle20{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle21{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle22{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle23{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .rectangle24{
+    margin-top: 0px;
+    margin-left: 1px;
+   }
+   .Aboutdiv4{
+    width: 100%;
+   }
 }

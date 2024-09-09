@@ -25,3 +25,13 @@
   color: white;
   text-decoration: none;
 }
+
+@media only screen and (max-width: 600px) {
+
+  .project-card{
+    margin-top: 500px;
+    width: 10px;
+  }
+  
+}
+

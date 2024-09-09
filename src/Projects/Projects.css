@@ -49,11 +49,11 @@
   margin-left: -190px;
   color: blue;
 }
-@media (max-width: 768px) {
-  .projects{margin-top: 200px;}
-  .projectsdiv1{margin-left: 10px;}
-  .project-cards{width: 450px;margin-left: -10px;}
-}
-@media (max-width: 740px){
-  .projects{margin-top: 300px;}
+
+@media only screen and (max-width: 600px) {
+
+  .projects{
+    margin-top: 200px;
+  }
+
 }

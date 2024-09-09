@@ -9,7 +9,7 @@ const ProjectCard = ({ title, techStack, githubLink }) => {
         <FaGithub />
       </a>
       <div className='titlepro'>
-        <h3>{title}</h3>
+        <h3 className='title'>{title}</h3>
       </div>
       <p>{techStack.join(' | ')}</p>
     </div>
