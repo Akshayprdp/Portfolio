@@ -23,10 +23,25 @@
   margin-top: 250px;
 }
 
-.Aboutdiv4 {
+/* .Aboutdiv4 {
   font-size: 1.2em;
   line-height: 1.5;
   width: 1400px;
+} */
+.Aboutdiv4 {
+  font-family: 'Poppins', sans-serif; /* Clean and modern font */
+  background-color:#000000; /* Light background */
+  padding: 20px;
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  color: #f9f7f7; /* Darker font for readability */
+  line-height: 1.6; /* Better readability */
+  text-align: justify; /* Neat alignment */
+  transition: transform 0.3s ease; /* Smooth hover effect */
+}
+
+.Aboutdiv4:hover {
+  transform: scale(1.02); /* Slight zoom effect on hover */
 }
 
 .Aboutdiv3 {
@@ -172,7 +187,11 @@
     margin-top: 0px;
     margin-left: 1px;
    }
-   .Aboutdiv4{
-    width: 100%;
-   }
+   .Aboutdiv4 {
+    padding: 15px; /* Adjust padding for mobile */
+    font-size: 14px; /* Smaller font size */
+    line-height: 1.6; /* Slightly tighter line spacing */
+    text-align: left; /* Left align for better reading flow on narrow screens */
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05); /* Lighter shadow on smaller screens */
+  }
 }

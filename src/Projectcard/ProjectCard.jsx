@@ -11,7 +11,7 @@ const ProjectCard = ({ title, techStack, githubLink }) => {
       <div className='titlepro'>
         <h3 className='title'>{title}</h3>
       </div>
-      <p>{techStack.join(' | ')}</p>
+      <p className='stack'>{techStack.join(' | ')}</p>
     </div>
   );
 };
