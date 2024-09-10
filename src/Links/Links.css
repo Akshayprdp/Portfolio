@@ -45,3 +45,10 @@
     .link{margin-right: -20px;width:10px;}
     
   }
+
+
+  @media only screen and (max-width: 600px) {
+    .link-container{
+      margin-left: -40px;
+    }
+  }
