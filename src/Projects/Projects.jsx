@@ -8,11 +8,11 @@ const projects = [
     techStack: ['React.js', ' HTML', 'JavaScript'], 
     githubLink: 'https://github.com/Akshayprdp/Text-Converter' 
   },
-  { 
-    title: 'Calculator App', 
-    techStack: [ 'JavaScript', ' HTML', ' CSS,'], 
-    githubLink: 'https://github.com/Akshayprdp/Projects/blob/main/JS/calculator.html' 
-  },
+  // { 
+  //   title: 'Calculator App', 
+  //   techStack: [ 'JavaScript', ' HTML', ' CSS,'], 
+  //   githubLink: 'https://github.com/Akshayprdp/Projects/blob/main/JS/calculator.html' 
+  // },
   { 
     title: 'E-Commerce WebApp', 
     techStack: [ 'React.js', 'JavaScript',' HTML', ' MongoDB',' Express.js',' Node.js'], 

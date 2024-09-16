@@ -101,17 +101,17 @@
 
 @media only screen and (max-width: 600px) {
   .About-div {
-    margin-top: 10px;
+    margin-top: -450px;
   }
   
   .Aboutdiv1 {
     margin-left: 20px;
-    margin-top: 50px;
+    
   }
 
   .Aboutdiv2 {
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 100px;
   }
   
   .shapes {
@@ -119,21 +119,21 @@
     flex-wrap: wrap;
     gap: 10px;
   }
-
+  .circle1 { width: 20px; height: 20px; background-color: #72d8e5; border-radius: 50%; margin-top: -440px; margin-left: 15px; --i: 27; }
   .rectangle1, .rectangle2, .rectangle3, .rectangle4, .rectangle5, 
-  .rectangle6, .rectangle7
+  .rectangle6, .rectangle7,.rectangle8, .rectangle9,.rectangle10
   {
     margin-top: 0px;
     margin-left: 0px;
   }
-  /* .rectangle11, .rectangle12, .rectangle13 .rectangle14, .rectangle15, 
+  .rectangle11, .rectangle12, .rectangle13 .rectangle14, .rectangle15, 
   .rectangle16, .rectangle17, .rectangle18, .rectangle19, .rectangle20, 
   .rectangle21, .rectangle22, .rectangle23, .rectangle24, .rectangle25, 
   .rectangle26, 
   .circle1, .circle2{
     margin-top: 0px;
     margin-left: 0px;
-  } */
+  }
    .rectangle11{
     margin-top: 110px;
    }
@@ -194,4 +194,5 @@
     text-align: left; /* Left align for better reading flow on narrow screens */
     box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05); /* Lighter shadow on smaller screens */
   }
+
 }
