@@ -52,10 +52,9 @@
 
 @media only screen and (max-width: 600px) {
 
-  /* .projects{
-    margin-top: 600px;
-    
-  } */
+  .projects{
+   
+  }
   .projectsdiv1{
     margin-left: 10px;
     margin-top: 850px;
