@@ -18,7 +18,35 @@
    
   }
   
-  .link {
+  .link1 {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    transition: background-color 0.3s;
+    width: 400px;
+    height: 40px;
+  }
+  .link2 {
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 120px;
+    transition: background-color 0.3s;
+    width: 400px;
+    height: 40px;
+  }
+  .link3 {
     text-decoration: none;
     color: #fff;
     border: 1px solid #fff;
@@ -33,8 +61,14 @@
     height: 40px;
   }
   
-  .link:hover {
+  .link1:hover {
     background-color: #333;
+  }
+  .link2:hover {
+    background-color: #D14486;
+  }
+  .link3:hover {
+    background-color:#0A66C2;
   }
   
   .link-icon {
