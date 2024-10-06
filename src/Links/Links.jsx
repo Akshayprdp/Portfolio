@@ -27,7 +27,7 @@ function Links() {
           className="link2"
         >
           <FaInstagram className="link-icon" />
-          <span>Instagram</span>
+          <span>Instagram</span> /instagram
         </a>
 
         <a
