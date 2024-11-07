@@ -13,13 +13,7 @@ const About = () => {
         <h1 className="Aboutdiv3">About -</h1>
         <h1>Hi, I'm Akshay</h1>
         <p className="Aboutdiv4">
-          I'm Akshay, a MERN stack Developer currently interning at Softroniics
-          perinthalmanna. In this role, I am gaining extensive hands-on
-          experience in building full-stack web applications using MongoDB,
-          Express.js, React.js, and Node.js. My work involves crafting
-          responsive user interfaces, developing robust server-side components,
-          and implementing seamless frontend-backend communication.
-        </p>
+        I'm Akshay, a MERN stack Developer currently working at I NEXT IT Solutions, specializing in building responsive web applications with React.JS and Tailwind CSS. Previously, I interned at Softroniics, gaining experience in full-stack development using MongoDB, Express.js, React.js, and Node.js. My background in Production Engineering enhances my project management skills, and I’m committed to continuous learning in front-end technologies.        </p>
       </div>
       <div className="shapes">
         <div className="rectangle1"></div>

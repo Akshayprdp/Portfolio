@@ -30,12 +30,12 @@
 } */
 .Aboutdiv4 {
   font-family: 'Poppins', sans-serif; /* Clean and modern font */
-  background-color:#000000; /* Light background */
+  background-color:#020202; /* Light background */
   padding: 20px;
   border-radius: 8px; /* Rounded corners */
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   color: #f9f7f7; /* Darker font for readability */
-  line-height: 1.6; /* Better readability */
+  line-height: 1.5; /* Better readability */
   text-align: justify; /* Neat alignment */
   transition: transform 0.3s ease; /* Smooth hover effect */
 }
